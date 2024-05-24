@@ -12,6 +12,9 @@ SSD 50 - 100
     git clone https://github.com/redivanyoga/pingpong.git
 #### SET UP MESIN : 
     cd pingpong && chmod ug+x *.sh && ./setup.sh
+
+#### MASUKAN KODE ID DARI WEB PINGPONG LALU ENTER 
+
 ####  JALANKAN DENGAN SCRIPT INI :
     ./start_pingpong.sh && ./check_log.sh
 ### BEBERAPA COMMAND YANG BISA DIGUNAKAN :
