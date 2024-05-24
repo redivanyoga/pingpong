@@ -9,7 +9,7 @@ SSD 50 - 100
     apt-get update -y && apt-get install git -y
 ### Steps
 #### TIRU REPOSITORY INI :
-    git clone https://github.com//pingpong.git
+    git clone https://github.com/redivanyoga/pingpong.git
 #### SET UP MESIN : 
     cd pingpong && chmod ug+x *.sh && ./setup.sh
 ####  JALANKAN DENGAN SCRIPT INI :
